@@ -1,0 +1,6 @@
+beautifulsoup4
+faiss-cpu
+gradio
+langchain_community
+langchain_openai
+langchainhub
